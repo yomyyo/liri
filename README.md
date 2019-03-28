@@ -10,4 +10,4 @@ Uses:
 
 ![spotify-this-song](images/spotify-this-song.PNG)
 
-![do-what-it=says](images/do-what-it-says.PNG)
+![do-what-it-says](images/do-what-it-say.PNG)
